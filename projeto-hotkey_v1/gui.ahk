@@ -1,0 +1,1 @@
+Gui, %GuiName%:Add, Picture, % "x" cx + 3 " y" cy + 25 " +BackgroundTrans", % "HBITMAP:*" PNG[ItemName]

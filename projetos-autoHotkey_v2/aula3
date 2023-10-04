@@ -1,0 +1,6 @@
+^q::
+{
+Mynumber := 7
+MsgBox Mynumber * 5
+return
+}
